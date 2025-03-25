@@ -1,6 +1,6 @@
-# CSCE1015 - Hochstetler
+# CSCE1015 
 Assignment repository for UNT CSCE1015
-## hcs0075
+## EUID
 hcs0075
 ## Favorite Professor
 Berreta
